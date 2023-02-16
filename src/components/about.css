@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.about-container{
+    margin: 1em 3em 10em 3em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: rgb(211, 116, 132)
+}
+
+#about-hr{
+    border: 1px solid pink;
+    width: 10%;
+    margin-top: 0
+}
+
+.family-pet-photo{
+    height: 15em;
+    border-radius: 1em;
+    margin: 0 0 2em 0;
+}
+
+.pet-photos{
+    margin: 1em 0 2em 0
+}
+
+#pet-photo{
+    height: 12em;
+    margin: .5em 1em;
+    border-radius: 50%
+}
+
+.hobbies-photos{
+    margin: 1em 0 2em 0
+}
+
+#hobby-photo{
+    height: 10em;
+    margin: .5em 1em;
+    border-radius: 1em;
+}

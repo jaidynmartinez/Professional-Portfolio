@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.contact-container{
+    margin: 1em 3em 1em 3em;
+    padding: 1em;
+    height: 40em;
+    color: rgb(211, 116, 132);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.contact-info{
+    margin-top: 2em
+}
+
+#contact-hr{
+    border: 1px solid pink;
+    width: 10%;
+    margin-top: 0
+}

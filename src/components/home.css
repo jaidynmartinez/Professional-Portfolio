@@ -1,0 +1,58 @@
+.home-container{
+    margin: 5em 0em 9em 0em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.home-hr{
+    border: 1px solid pink;
+    width: 90%;
+    margin: 0
+}
+
+/* PROFILE PIC */
+
+.profilepic-container{
+    /* background-color: rgb(255, 236, 239); */
+    display: flex;
+    justify-content: center;
+    margin: 3em 0
+}
+
+.profilepic-container img{
+    border-radius: 50%;
+    height: 25em;
+    box-shadow: -1.5em -.5em pink;
+    border: 1px solid pink;
+    margin: 3em;
+}
+
+/* INTRODUCTION */
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.introduction{
+    width: 40em;
+}
+
+.introduction h1{
+    color: pink;
+    font-size: 100px;
+    font-family: 'Sacramento', cursive;
+    font-weight:lighter ;
+    margin: 0; 
+    text-shadow: -2.5px -2px rgb(255, 147, 165)
+}
+
+.introduction p{
+    color: rgb(255, 147, 165);
+    font-size: 1.3em;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.8em;
+}
+
+
+
