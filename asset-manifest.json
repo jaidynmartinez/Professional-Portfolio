@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/Professional-Portfolio/static/css/main.8be75d91.css",
-    "main.js": "/Professional-Portfolio/static/js/main.3af03070.js",
+    "main.css": "/Professional-Portfolio/static/css/main.faa75bfb.css",
+    "main.js": "/Professional-Portfolio/static/js/main.b3fd069a.js",
     "static/js/787.1ed0c42c.chunk.js": "/Professional-Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/img5.jpg": "/Professional-Portfolio/static/media/img5.bb47589a88886b5697c9.jpg",
+    "static/media/selfie.jpeg": "/Professional-Portfolio/static/media/selfie.f87691595114add13f8c.jpeg",
+    "static/media/claire.jpeg": "/Professional-Portfolio/static/media/claire.569678aaf8f88461835c.jpeg",
+    "static/media/phantom:bjs.jpeg": "/Professional-Portfolio/static/media/phantom:bjs.4aa211eb5403f9fb00aa.jpeg",
+    "static/media/coffee.jpeg": "/Professional-Portfolio/static/media/coffee.733fd7c4a3874a8a3324.jpeg",
+    "static/media/caramel.jpeg": "/Professional-Portfolio/static/media/caramel.a3fd8a594a8f8587b312.jpeg",
+    "static/media/reactlogo.png": "/Professional-Portfolio/static/media/reactlogo.8de802014d323a688848.png",
+    "static/media/wordpresslogo.png": "/Professional-Portfolio/static/media/wordpresslogo.558ce8b2efb7b495b402.png",
+    "static/media/IMG_0667.JPG": "/Professional-Portfolio/static/media/IMG_0667.510da81ba1306ca18795.JPG",
+    "static/media/axioslogo.png": "/Professional-Portfolio/static/media/axioslogo.d9869bb3c1c7e64cb124.png",
+    "static/media/githublogo.png": "/Professional-Portfolio/static/media/githublogo.c7ca04a1642a62abb12b.png",
+    "static/media/jslogo.png": "/Professional-Portfolio/static/media/jslogo.7f8751632b42a9932c15.png",
+    "static/media/nodejs.png": "/Professional-Portfolio/static/media/nodejs.bc4b43cd5f20ba305059.png",
     "index.html": "/Professional-Portfolio/index.html",
-    "main.8be75d91.css.map": "/Professional-Portfolio/static/css/main.8be75d91.css.map",
-    "main.3af03070.js.map": "/Professional-Portfolio/static/js/main.3af03070.js.map",
+    "main.faa75bfb.css.map": "/Professional-Portfolio/static/css/main.faa75bfb.css.map",
+    "main.b3fd069a.js.map": "/Professional-Portfolio/static/js/main.b3fd069a.js.map",
     "787.1ed0c42c.chunk.js.map": "/Professional-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8be75d91.css",
-    "static/js/main.3af03070.js"
+    "static/css/main.faa75bfb.css",
+    "static/js/main.b3fd069a.js"
   ]
 }
