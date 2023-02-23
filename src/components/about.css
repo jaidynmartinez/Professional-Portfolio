@@ -15,9 +15,11 @@
 }
 
 .family-pet-photo{
-    height: 15em;
+    height: 13em;
     border-radius: 1em;
     margin: 0 0 2em 0;
+    border: .5px solid rgb(184, 184, 184);
+    box-shadow: 1px 3px 10px rgb(128, 128, 128)
 }
 
 .pet-photos{
@@ -25,9 +27,11 @@
 }
 
 #pet-photo{
-    height: 12em;
+    height: 10em;
     margin: .5em 1em;
-    border-radius: 50%
+    border-radius: 50%;
+    border: .5px solid rgb(184, 184, 184);
+    box-shadow: 1px 3px 10px rgb(128, 128, 128)
 }
 
 .hobbies-photos{
@@ -35,7 +39,9 @@
 }
 
 #hobby-photo{
-    height: 10em;
+    height: 8em;
     margin: .5em 1em;
     border-radius: 1em;
+    border: .5px solid rgb(184, 184, 184);
+    box-shadow: 1px 3px 10px rgb(128, 128, 128)
 }

@@ -2,7 +2,14 @@ import React from 'react'
 
 import './projects.css'
 
-import logo from './images/img5.jpg'
+import gitlogo from './images/gitlogo.png'
+import githublogo from './images/githublogo.png'
+import reactlogo from './images/reactlogo.png'
+import wordpresslogo from './images/wordpresslogo.png'
+import nodejslogo from './images/nodejs.png'
+import jslogo from './images/jslogo.png'
+import postmanlogo from './images/postman.png'
+import axioslogo from './images/axioslogo.png'
 
 import YoutubeEmbed from './YoutubeEmbed'
 
@@ -12,14 +19,14 @@ export const Projects = () => {
       <h1>Projects</h1>
       <hr id='projects-hr'></hr>
       <div className='skills-container'>
-        <img id='skill-logo' src={logo} />
-        <img id='skill-logo' src={logo} />
-        <img id='skill-logo' src={logo} />
-        <img id='skill-logo' src={logo} />
-        <img id='skill-logo' src={logo} />
-        <img id='skill-logo' src={logo} />
-        <img id='skill-logo' src={logo} />
-        <img id='skill-logo' src={logo} />
+        <img id='skill-logo' src={gitlogo} alt=''/>
+        <img id='skill-logo' src={githublogo} alt=''/>
+        <img id='skill-logo' src={nodejslogo} alt=''/>
+        <img id='skill-logo' src={reactlogo} alt=''/>
+        <img id='skill-logo' src={jslogo} alt=''/>
+        <img id='skill-logo' src={postmanlogo} alt=''/>
+        <img id='skill-logo' src={axioslogo} alt=''/>
+        <img id='skill-logo' src={wordpresslogo} alt=''/>
       </div>
 
       <p>During my time at DevMountain, I studied web development with more of an interest in front-end and UX/UI design.</p>

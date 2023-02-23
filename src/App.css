@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+h1{
+ margin: 0
+}
+
+#hr{
+  border: 1px solid pink
+}
 
 .App-logo {
   height: 40vmin;

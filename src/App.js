@@ -13,8 +13,11 @@ function App() {
     <div className="App">
       <Header/>
       <Home/>
+      <hr id='hr'></hr>
       <About/>
+      <hr id='hr'></hr>
       <Projects/>
+      <hr id='hr'></hr>
       <Contact/>
     </div>
   );
