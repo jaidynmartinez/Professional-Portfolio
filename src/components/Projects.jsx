@@ -37,6 +37,7 @@ export const Projects = () => {
           <p>Bone Appetit</p>
           <YoutubeEmbed  embedId='MA4-85pqWwE'/>
             <a href="https://github.com/jaidynmartinez/F24Capstone.git">GitHub Repo</a>
+            <a href="https://jaidynmartinez.github.io/specs-capstone">Hosted Site</a>
         </div>
         <div>
           <p>BunNeeds</p>
